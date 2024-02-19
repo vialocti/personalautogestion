@@ -1,0 +1,12 @@
+
+.row-tit{
+    margin-top:20;
+    background:'#DDDDDD';
+}
+
+.card{
+    margin-top: 20px;
+    width: 70%;
+    justify-content: center;
+    border-radius: 20px;
+}

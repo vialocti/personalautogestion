@@ -1,0 +1,19 @@
+.card{
+    width: 400px;
+    padding: 20px;
+    border-radius: 12;
+}
+label{
+    margin-top:5;
+   font-size: 16;
+   font-weight: bold;
+}
+
+
+
+p{
+    
+    font-size:14;
+    background-color: rgb(214, 139, 154);
+
+}

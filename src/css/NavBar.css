@@ -1,0 +1,29 @@
+.formi{
+    width: 100%;
+    border: rgb(235, 199, 199) 1px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top:20px;
+    margin-right:10px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.formilogout{
+    width: 50%;
+    border: rgb(24, 26, 129) 1px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-right: 20px;
+    margin-right:20px;
+   
+    
+}
+.logout{
+    width: 100%;
+    padding: 5px;
+    margin-right: 20px;
+}
